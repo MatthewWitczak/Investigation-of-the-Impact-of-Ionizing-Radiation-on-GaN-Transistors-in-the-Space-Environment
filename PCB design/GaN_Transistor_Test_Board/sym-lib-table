@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "1-1337445-0")(type "KiCad")(uri "${KIPRJMOD}/Symbols/1-1337445-0.kicad_sym")(options "")(descr ""))
+  (lib (name "IGD70R500D2S")(type "KiCad")(uri "${KIPRJMOD}/Symbols/IGD70R500D2S.kicad_sym")(options "")(descr ""))
+)
