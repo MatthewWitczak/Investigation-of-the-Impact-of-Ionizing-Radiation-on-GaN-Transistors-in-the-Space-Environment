@@ -7,6 +7,10 @@
 		(legacy_teardrops no)
 	)
 	(paper "A4")
+	(title_block
+		(date "18.01.2026")
+		(company "eng. Mateusz Witczak")
+	)
 	(layers
 		(0 "F.Cu" signal)
 		(2 "B.Cu" signal)
@@ -364,7 +368,7 @@
 	(footprint "Footprints:TO-252-3_TabPin4"
 		(layer "F.Cu")
 		(uuid "29087197-bcab-4188-a6ab-794424269326")
-		(at 140.675 75.4)
+		(at 143.325 92.275)
 		(descr "TO-252 / DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-3-1/")
 		(tags "DPAK TO-252 DPAK-3 TO-252-3 SOT-428")
 		(property "Reference" "Q1"
