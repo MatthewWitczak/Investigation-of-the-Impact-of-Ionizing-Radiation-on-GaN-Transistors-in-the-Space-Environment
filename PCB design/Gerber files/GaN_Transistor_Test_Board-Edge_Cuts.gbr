@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.2*%
+%TF.CreationDate,2026-08-04T23:44:30+02:00*%
+%TF.ProjectId,GaN_Transistor_Test_Board,47614e5f-5472-4616-9e73-6973746f725f,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.2) date 2026-08-04 23:44:30*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X63710000Y-54640000D02*
+X213710000Y-54640000D01*
+X213710000Y-204640000D01*
+X63710000Y-204640000D01*
+X63710000Y-54640000D01*
+M02*
